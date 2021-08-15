@@ -1,0 +1,7 @@
+First Git Assignment
+Learning git commands
+git init
+git add
+git commit -m "My first commit!"
+git reset
+etc.
